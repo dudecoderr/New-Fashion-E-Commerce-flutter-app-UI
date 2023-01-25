@@ -1,6 +1,6 @@
 # open_fashion
 
-A new Flutter project.
+New Fashion E Commerce flutter app UI
 
 ## Getting Started
 
