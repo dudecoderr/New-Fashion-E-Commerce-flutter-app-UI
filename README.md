@@ -23,7 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 + video
-[![Demo](screenshots/thumbnail.png)](https://www.youtube.com/watch?v=qKrFWerjoV8)
+[![Demo](https://github.com/dudecoderr/New-Fashion-E-Commerce-flutter-app-UI/blob/main/assets/Boss_logo.png)](https://www.youtube.com/watch?v=qKrFWerjoV8)
 
 
 
