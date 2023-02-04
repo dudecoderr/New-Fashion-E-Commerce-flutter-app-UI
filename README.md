@@ -14,6 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+ 
+# For Image
+[comment]: <> (<p align="center"><img src="https://github.com/dudecoderr/New-Fashion-E-Commerce-flutter-app-UI/blob/main/assets/2banner_prodect_page.png" alt="Dart diagram"></p>)
 
 + image
 <p align="center"><img src="https://github.com/dudecoderr/New-Fashion-E-Commerce-flutter-app-UI/blob/main/assets/2banner_prodect_page.png" alt="Dart diagram"></p>

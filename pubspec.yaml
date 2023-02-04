@@ -33,7 +33,6 @@ dependencies:
     sdk: flutter
   flutter_screenutil: ^5.6.0
   get: ^4.6.5
-  favorite_button: ^0.0.4
   carousel_slider: ^4.2.1
 
 
