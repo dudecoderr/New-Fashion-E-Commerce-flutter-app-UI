@@ -11,7 +11,7 @@ Note: _**last updated january 2023 configured project to latest flutter version 
 
 
 <p align="center">
-<img src="assets/Readme (3).jpg" width="200%">
+<img src="https://raw.githubusercontent.com/dudecoderr/New-Fashion-E-Commerce-flutter-app-UI/main/assets/Readme%20(3).jpg" width="200%">
 
 
 </p>
